@@ -1,4 +1,3 @@
-import './App.css';
 import { useState } from 'react';
 import Filters from './components/filter/Filters';
 import CharacterList from './components/cards/Cards';
